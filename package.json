@@ -1,0 +1,15 @@
+{
+  "name": "sushi-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "all.js",
+  "scripts": {
+    "deply": "gh-pages -d SUSHI BAR"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://AleJov.github.io/sushibar",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
